@@ -1,0 +1,14 @@
+{
+  "name": "ai-assisted-python-to-js-translator",
+  "version": "1.0.0",
+  "description": "AI-assisted workflow for translating Python to JavaScript",
+  "main": "src/javascript_translated/calculator.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/javascript_translated/calculator.js"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "keywords": ["AI", "translation", "Python", "JavaScript"]
+}
